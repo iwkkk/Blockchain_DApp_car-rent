@@ -1,3 +1,16 @@
+A Decentralized Dapp that enables users to rent cars through smart contracts built on the Tezos blockchain.
+
+Contract: Implemented using SmartPy.
+Wallet: Thanos Wallet.
+Frontend: Developed using React and Material UI.
+
+
+Home page of this Dapp:
+<img width="358" alt="image" src="https://github.com/iwkkk/Blockchain_DApp_car-rent/assets/77448166/b175c01a-ffc7-48c9-aec6-3a0c473ce88f">
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
