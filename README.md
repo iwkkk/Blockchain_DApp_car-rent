@@ -6,6 +6,7 @@ Frontend: Developed using React and Material UI.
 
 
 Home page of this Dapp:
+
 <img width="358" alt="image" src="https://github.com/iwkkk/Blockchain_DApp_car-rent/assets/77448166/b175c01a-ffc7-48c9-aec6-3a0c473ce88f">
 
 
